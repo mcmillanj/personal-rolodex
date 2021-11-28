@@ -2,6 +2,8 @@
   text-align: center;
 }
 
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -36,3 +38,13 @@
     transform: rotate(360deg);
   }
 }
+
+.mons-logo {
+
+color:red;
+font-size: 72px;
+font-style: italic;
+font-family: 'Bigelow Rules', cursive;
+
+}
+
